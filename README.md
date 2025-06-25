@@ -1,31 +1,31 @@
-# 👋 Olá, sou o Jose Roberto!
+# 👋 Hi, I'm Jose Roberto!
 
-🧬 Ex-enfermeiro com 18 anos de experiência em UTI e Pronto-Socorro.  
-🧠 Hoje, totalmente focado em tecnologia, estudando diariamente e criando projetos práticos.
+🧬 A former nurse with 18 years' experience in the ICU and Emergency Room.  
+Today, I'm totally focused on technology, studying every day and creating practical projects.
 
-## 💻 Áreas de Estudo e Atuação:
-- Python (automação, Flask, Streamlit)
-- Salesforce (Admin e Business Analyst)
-- Mobile com Flutter, Dart e React Native
-- Cibersegurança ética (DIY & pentest)
-- Automação com IA e integração de APIs
+## 💻 Areas of Study and Practice:
+- Python (automation, Flask, Streamlit)
+- Salesforce (Admin and Business Analyst)
+- Mobile with Flutter, Dart and React Native
+- Ethical cybersecurity (DIY & pentest)
+- Automation with AI and API integration
 - Cybersecutiry
 - Linux 
 
-## 🛠️ Projetos em destaque:
-- Mini Central Hacking com TV Box + Armbian
-- Automação com Python + IA
-- Aplicativos com Streamlit e Flutter
+## 🛠️ Featured projects:
+- Mini Central Hacking with TV Box + Armbian
+- Automation with Python + AI
+- Applications with Streamlit and Flutter
 
-## 🌍 Em transição de carreira e buscando:
-**Minha primeira oportunidade como Desenvolvedor Júnior.**  
-Trago resiliência, foco e disciplina como diferenciais.
+## 🌍 In career transition and looking for:
+**My first opportunity as a Junior Developer** 
+I bring resilience, focus and discipline as differentials.
 
-## 📫 Onde me encontrar:
+## 📫 Where to find me:
 - GitHub: [github.com/Jbreccio](https://github.com/Jbreccio)
-- LinkedIn: _(insira seu link aqui)_
+- LinkedIn: _(insert your link here)_
 - GitLab: [gitlab.com/Jbreccio](https://gitlab.com/Jbreccio)
 
 ---
 
-🧠 _“Aprender é o meu novo juramento. Código é a minha nova cura.”_  coloquei isso e cliquei em commit changes
+🧠 _"Learning is my new oath. Code is my new cure."_ I put that in and clicked commit changes
