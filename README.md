@@ -13,9 +13,16 @@ Today, I'm totally focused on technology, studying every day and creating practi
 - Linux 
 
 ## 🛠️ Featured projects:
-- Mini Central Hacking with TV Box + Armbian
-- Automation with Python + AI
-- Applications with Streamlit and Flutter
+## 🔥 Projetos em destaque
+
+👉 [Mini Central Hacking](https://github.com/Jbreccio/mini-central-hacking)  
+Projeto baseado em uma TV Box com Armbian, sensores e ferramentas de pentest.
+
+👉 [Bakery Management System](https://github.com/Jbreccio/bakery-management-system)  
+Sistema de gerenciamento simples para padaria, feito com Python.
+
+👉 [Meu GitLab](https://gitlab.com/Jbreccio)
+
 
 ## 🌍 In career transition and looking for:
 **My first opportunity as a Junior Developer** 
