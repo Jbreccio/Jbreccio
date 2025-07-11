@@ -21,6 +21,23 @@ This project aims to transform a TV Box with RK3229 chipset into a portable hack
 👉 [Bakery Management System](https://github.com/Jbreccio/bakery-management-system)  
 Complex management system, similar to the IFood APP, with 9-layer security to be applied in bakeries, supermarkets, mini markets, businesses such as stores, made with Python and Node.js
 
+And more: 
+
+🛠️ Featured projects: still under construction:
+
+👉 backend-template-medio-node.js
+👉 backend-template-alto-node.js
+👉 backend-template-leve-node.js
+👉 backend-template-medio-django
+👉 backend-template-alto-django
+👉 backend-template-leve-django
+👉 Mini-Central-Hacking - Armbian
+👉 Lupaneckpet Mesh Technology
+👉 AstronautSensorDetector - Arduino
+👉 SkinCodePay - Python/Django
+👉 Help-Attack-Button Esp32 nano
+👉 Moving-Eyes-Glass-MEG With Esp32 nano
+
 👉 [Meu GitLab](https://gitlab.com/Jbreccio)
 
 
