@@ -6,10 +6,11 @@
 ## 💻 **Core Skills:**
 - **Python** (Flask, Streamlit, pandas, automation)
 - **Web Development** (HTML, CSS, JavaScript)
-- **Database Management** (PostgreSQL, SQLite)
+- **Database Management** (PostgreSQL, SQLite, MongoDB)
 - **API Development** and Integration
 - **Process Automation**
 - **Salesforce** (Admin and Business Analyst)
+- **Postman
 
 ## 🚀 **Featured Projects:**
 
