@@ -1,55 +1,43 @@
 # 👋 Hi, I'm Jose Roberto!
 
-🧬 A former nurse with 18 years' experience in the ICU and Emergency Room.  
-Today, I'm totally focused on technology, studying every day and creating practical projects.
+🧬 **Former nurse with 18 years' ICU/ER experience** transitioning to technology  
+💻 **Python Developer** focused on automation, web development, and data solutions
 
-## 💻 Areas of Study and Practice:
-- Python (automation, Flask, Streamlit)
-- Salesforce (Admin and Business Analyst)
-- Mobile with Python/ Django, Node.js and React Native
-- Ethical cybersecurity (DIY & pentest)
-- Automation with AI and API integration
-- Cybersecutiry
-- Linux 
+## 💻 **Core Skills:**
+- **Python** (Flask, Streamlit, pandas, automation)
+- **Web Development** (HTML, CSS, JavaScript)
+- **Database Management** (PostgreSQL, SQLite)
+- **API Development** and Integration
+- **Process Automation**
+- **Salesforce** (Admin and Business Analyst)
 
-## 🛠️ Featured projects:
-## 🔥 Projetos em destaque
+## 🚀 **Featured Projects:**
 
-👉 [Network Security Tools](https://github.com/Jbreccio/mini-central-hacking)  
-This project aims to transform a TV Box with RK3229 chipset into a portable hacking center, running the Armbian system and several security tools, including Metasploit, Burp Suite, Hashcat, among others. The system is protected by a presence sensor integrated into the Astronaut Sensor Detector, which, when detecting suspicious movements, activates a series of security measures.
+👉 **[Bakery Management System](https://github.com/Jbreccio/bakery-management-system)**  
+Complete business management system with Python backend and Node.js - 9-layer security system for bakeries, supermarkets, and retail businesses
 
-👉 [Bakery Management System](https://github.com/Jbreccio/bakery-management-system)  
-Complex management system, similar to the IFood APP, with 9-layer security to be applied in bakeries, supermarkets, mini markets, businesses such as stores, made with Python and Node.js
+👉 **[Hospital Data Analytics](https://github.com/Jbreccio/hospital-analytics)** *(Coming Soon)*  
+Python dashboard for healthcare metrics visualization using my ICU/ER experience
 
-And more: 
+👉 **[Automated Report Generator](https://github.com/Jbreccio/report-automation)** *(Coming Soon)*  
+Python automation tool for generating business reports with pandas and Excel integration
 
-🛠️ Featured projects: still under construction:
+👉 **[Web Scraping Tools](https://github.com/Jbreccio/web-scraping-tools)** *(Coming Soon)*  
+Data collection and analysis tools using BeautifulSoup and requests
 
-👉 backend-template-medio-node.js
-👉 backend-template-alto-node.js
-👉 backend-template-leve-node.js
-👉 backend-template-medio-django
-👉 backend-template-alto-django
-👉 backend-template-leve-django
-👉 Mini-Central-Hacking - Armbian
-👉 Lupaneckpet Mesh Technology
-👉 AstronautSensorDetector - Arduino
-👉 SkinCodePay - Python/Django
-👉 Help-Attack-Button Esp32 nano
-👉 Moving-Eyes-Glass-MEG With Esp32 nano
+## 🛠️ **Backend Templates Collection:**
+- **Django Templates** (Light, Medium, Advanced)
+- **Node.js Templates** (Light, Medium, Advanced)
+- **API REST** development frameworks
 
-👉 [Meu GitLab](https://gitlab.com/Jbreccio)
+## 🌍 **Career Transition:**
+**Seeking my first opportunity as a Junior Python Developer**  
+I bring **resilience, focus, and discipline** from 18 years in healthcare to software development.
 
-
-## 🌍 In career transition and looking for:
-**My first opportunity as a Junior Developer** 
-I bring resilience, focus and discipline as differentials.
-
-## 📫 Where to find me:
-- GitHub: [github.com/Jbreccio](https://github.com/Jbreccio)
-- LinkedIn: _(insert your link here)_
-- GitLab: [gitlab.com/Jbreccio](https://gitlab.com/Jbreccio)
+## 📫 **Contact:**
+- 🐱 GitHub: [github.com/Jbreccio](https://github.com/Jbreccio)
+- 💼 LinkedIn: *(Add your LinkedIn here)*
+- 🔧 GitLab: [gitlab.com/Jbreccio](https://gitlab.com/Jbreccio)
 
 ---
-
-🧠 _"Learning is my new oath. Code is my new cure."_ I put that in and clicked commit changes
+🧠 *"From saving lives to solving problems through code. Learning is my new oath."*
