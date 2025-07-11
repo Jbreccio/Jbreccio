@@ -6,7 +6,7 @@ Today, I'm totally focused on technology, studying every day and creating practi
 ## 💻 Areas of Study and Practice:
 - Python (automation, Flask, Streamlit)
 - Salesforce (Admin and Business Analyst)
-- Mobile with Flutter, Dart and React Native
+- Mobile with Python/ Django, Node.js and React Native
 - Ethical cybersecurity (DIY & pentest)
 - Automation with AI and API integration
 - Cybersecutiry
@@ -16,10 +16,10 @@ Today, I'm totally focused on technology, studying every day and creating practi
 ## 🔥 Projetos em destaque
 
 👉 [Mini Central Hacking](https://github.com/Jbreccio/mini-central-hacking)  
-Projeto baseado em uma TV Box com Armbian, sensores e ferramentas de pentest.
+This project aims to transform a TV Box with RK3229 chipset into a portable hacking center, running the Armbian system and several security tools, including Metasploit, Burp Suite, Hashcat, among others. The system is protected by a presence sensor integrated into the Magali doll, which, when detecting suspicious movements, activates a series of security measures.
 
 👉 [Bakery Management System](https://github.com/Jbreccio/bakery-management-system)  
-Sistema de gerenciamento simples para padaria, feito com Python.
+Complex management system, similar to the IFood APP, with 9-layer security to be applied in bakeries, supermarkets, mini markets, businesses such as stores, made with Python and Node.js
 
 👉 [Meu GitLab](https://gitlab.com/Jbreccio)
 
