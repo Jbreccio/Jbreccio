@@ -11,6 +11,7 @@
 - **Process Automation**
 - **Salesforce** (Admin and Business Analyst)
 - **Postman
+- **Google IT Automation with Python Professional Certificate
 
 ## 🚀 **Featured Projects:**
 
