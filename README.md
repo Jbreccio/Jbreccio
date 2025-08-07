@@ -38,7 +38,7 @@ I bring **resilience, focus, and discipline** from 18 years in healthcare to sof
 
 ## 📫 **Contact:**
 - 🐱 GitHub: [github.com/Jbreccio](https://github.com/Jbreccio)
-- 💼 LinkedIn: *(Add your LinkedIn here)*
+- 💼 LinkedIn: [www.linkedin.com/in/josebreccio-dev-35b8292a4]
 - 🔧 GitLab: [gitlab.com/Jbreccio](https://gitlab.com/Jbreccio)
 
 ---
