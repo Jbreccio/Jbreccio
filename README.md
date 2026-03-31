@@ -1,45 +1,59 @@
 # 👋 Hi, I'm Jose Roberto!
 
-🧬 **Former nurse with 18 years' ICU/ER experience** transitioning to technology  
-💻 **Python Developer** focused on automation, web development, and data solutions
-
-## 💻 **Core Skills:**
-- **Python** (Flask, Streamlit, pandas, automation)
-- **Web Development** (HTML, CSS, JavaScript)
-- **Database Management** (PostgreSQL, SQLite, MongoDB)
-- **API Development** and Integration
-- **Process Automation**
-- **Salesforce** (Admin and Business Analyst)
-- **Postman
-- **Google IT Automation with Python Professional Certificate
-
-## 🚀 **Featured Projects:**
-
-👉 **[Bakery Management System](https://github.com/Jbreccio/bakery-management-system)**  
-Complete business management system with Python backend and Node.js - 9-layer security system for bakeries, supermarkets, and retail businesses
-
-👉 **[Hospital Data Analytics](https://github.com/Jbreccio/hospital-analytics)** *(Coming Soon)*  
-Python dashboard for healthcare metrics visualization using my ICU/ER experience
-
-👉 **[Automated Report Generator](https://github.com/Jbreccio/report-automation)** *(Coming Soon)*  
-Python automation tool for generating business reports with pandas and Excel integration
-
-👉 **[Web Scraping Tools](https://github.com/Jbreccio/web-scraping-tools)** *(Coming Soon)*  
-Data collection and analysis tools using BeautifulSoup and requests
-
-## 🛠️ **Backend Templates Collection:**
-- **Django Templates** (Light, Medium, Advanced)
-- **Node.js Templates** (Light, Medium, Advanced)
-- **API REST** development frameworks
-
-## 🌍 **Career Transition:**
-**Seeking my first opportunity as a Junior Python Developer**  
-I bring **resilience, focus, and discipline** from 18 years in healthcare to software development.
-
-## 📫 **Contact:**
-- 🐱 GitHub: [github.com/Jbreccio](https://github.com/Jbreccio)
-- 💼 LinkedIn: [www.linkedin.com/in/josebreccio-dev-35b8292a4]
-- 🔧 GitLab: [gitlab.com/Jbreccio](https://gitlab.com/Jbreccio)
+💻 Fullstack Backend Developer focused on building secure, scalable APIs and automation solutions using Node.js and Python.
 
 ---
-🧠 *"From saving lives to solving problems through code. Learning is my new oath."*
+
+## 🚀 Featured Project
+
+### 🏛 Santuário de Fátima Platform
+Complete system developed end-to-end, including backend and mobile application.
+
+**Backend (Node.js):**
+- REST API development
+- Authentication with JWT and bcrypt
+- 2FA implementation
+- Security (Helmet, Rate Limit, CORS)
+- Database integration (MySQL / SQLite)
+- Email system (Nodemailer)
+- Cron jobs automation
+
+**Mobile App (Android):**
+- Integrated with backend API
+- Authentication and secure data consumption
+- Currently in publication process on Google Play Store
+
+---
+
+## 💻 Technical Skills
+
+- **Backend:** Node.js, Express, Python  
+- **Security:** JWT, bcrypt, 2FA, API protection  
+- **Databases:** PostgreSQL, SQLite, MongoDB  
+- **APIs:** RESTful APIs and integrations  
+- **Automation:** Python scripts and data processing  
+- **Tools:** Git, Postman  
+
+---
+
+## 🛠 Additional Projects
+
+👉 **Bakery Management System**  
+Business management system with backend + mobile integration
+
+---
+
+## 🧠 Professional Background
+
+Former healthcare professional with 18+ years of experience in ICU/ER environments, bringing strong discipline, resilience, and problem-solving skills into technology.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Jbreccio  
+- LinkedIn: https://www.linkedin.com/in/josebreccio-dev-35b8292a4  
+
+---
+
+🧠 *"From saving lives to solving problems through code."*
