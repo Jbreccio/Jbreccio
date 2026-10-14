@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jose Roberto!
 
-💻 Fullstack Backend Developer focused on building secure, scalable APIs and automation solutions using Node.js and Python.
+💻 Fullstack Backend and Frontend Developer focused on building secure, scalable APIs and automation solutions using Node.js and Python.
 
 ---
 
